@@ -1,5 +1,5 @@
 # Introduction
-The project was aimed to classify crop types using time-series Sentinel-2 images with Random Forest Algorithm in Google Earth Engine (GEE) with Python API. The study area is part of Van Wert, Ohio USA.
+The project aimed to classify crop types using time-series Sentinel-2 images with Random Forest Algorithm in Google Earth Engine (GEE) with Python API. The study area is part of Van Wert, Ohio USA.
 
 
 # Methodology
